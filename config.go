@@ -2,4 +2,4 @@ package main
 
 import "os"
 
-var TOKEN string = os.Getenv("TOKEN")
+var NOTION_TOKEN string = os.Getenv("NOTION_TOKEN")
