@@ -1,8 +1,6 @@
 package main
 
-import "fmt"
-
 func main() {
 
-	fmt.Print(TOKEN)
+	get_all_groups()
 }
